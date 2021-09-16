@@ -1,0 +1,22 @@
+{
+    "DomainControllers": [
+        {
+            "FQDN": "",
+            "IP": ""
+        }
+    ],
+    "Servers": [
+        {
+            "FQDN": "Alpha.hq.local",
+            "Name": "Alpha",
+            "IP": "",
+            "Type": "DomainController"
+        },
+        {
+            "FQDN": "Bravo.hq.local",
+            "Name": "Bravo",
+            "IP": "",
+            "Type": "Member"
+        }
+    ]
+}

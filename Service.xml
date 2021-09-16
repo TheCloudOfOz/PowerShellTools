@@ -1,0 +1,1414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='Report.xsl'?>
+<Objects>
+  <Object>
+    <Property Name="Name">AarSvc_c339890</Property>
+    <Property Name="DisplayName">Agent Activation Runtime_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AdobeARMservice</Property>
+    <Property Name="DisplayName">Adobe Acrobat Update Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AdobeUpdateService</Property>
+    <Property Name="DisplayName">AdobeUpdateService</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AGMService</Property>
+    <Property Name="DisplayName">Adobe Genuine Monitor Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AGSService</Property>
+    <Property Name="DisplayName">Adobe Genuine Software Integrity Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AJRouter</Property>
+    <Property Name="DisplayName">AllJoyn Router Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ALG</Property>
+    <Property Name="DisplayName">Application Layer Gateway Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AppIDSvc</Property>
+    <Property Name="DisplayName">Application Identity</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Appinfo</Property>
+    <Property Name="DisplayName">Application Information</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AppMgmt</Property>
+    <Property Name="DisplayName">Application Management</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AppReadiness</Property>
+    <Property Name="DisplayName">App Readiness</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AppVClient</Property>
+    <Property Name="DisplayName">Microsoft App-V Client</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AppXSvc</Property>
+    <Property Name="DisplayName">AppX Deployment Service (AppXSVC)</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AssignedAccessManagerSvc</Property>
+    <Property Name="DisplayName">AssignedAccessManager Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AudioEndpointBuilder</Property>
+    <Property Name="DisplayName">Windows Audio Endpoint Builder</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Audiosrv</Property>
+    <Property Name="DisplayName">Windows Audio</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">autotimesvc</Property>
+    <Property Name="DisplayName">Cellular Time</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">AxInstSV</Property>
+    <Property Name="DisplayName">ActiveX Installer (AxInstSV)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BcastDVRUserService_c339890</Property>
+    <Property Name="DisplayName">GameDVR and Broadcast User Service_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BDESVC</Property>
+    <Property Name="DisplayName">BitLocker Drive Encryption Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BFE</Property>
+    <Property Name="DisplayName">Base Filtering Engine</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BITS</Property>
+    <Property Name="DisplayName">Background Intelligent Transfer Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BluetoothUserService_c339890</Property>
+    <Property Name="DisplayName">Bluetooth User Support Service_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Bonjour Service</Property>
+    <Property Name="DisplayName">Bonjour Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BrokerInfrastructure</Property>
+    <Property Name="DisplayName">Background Tasks Infrastructure Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BTAGService</Property>
+    <Property Name="DisplayName">Bluetooth Audio Gateway Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">BthAvctpSvc</Property>
+    <Property Name="DisplayName">AVCTP service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">bthserv</Property>
+    <Property Name="DisplayName">Bluetooth Support Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">camsvc</Property>
+    <Property Name="DisplayName">Capability Access Manager Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CaptureService_c339890</Property>
+    <Property Name="DisplayName">CaptureService_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">cbdhsvc_c339890</Property>
+    <Property Name="DisplayName">Clipboard User Service_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CDPSvc</Property>
+    <Property Name="DisplayName">Connected Devices Platform Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CDPUserSvc_c339890</Property>
+    <Property Name="DisplayName">Connected Devices Platform User Service_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CertPropSvc</Property>
+    <Property Name="DisplayName">Certificate Propagation</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ClickToRunSvc</Property>
+    <Property Name="DisplayName">Microsoft Office Click-to-Run Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ClipSVC</Property>
+    <Property Name="DisplayName">Client License Service (ClipSVC)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">COMSysApp</Property>
+    <Property Name="DisplayName">COM+ System Application</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ConsentUxUserSvc_c339890</Property>
+    <Property Name="DisplayName">ConsentUX_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CoreMessagingRegistrar</Property>
+    <Property Name="DisplayName">CoreMessaging</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CorsairGamingAudioConfig</Property>
+    <Property Name="DisplayName">Corsair Gaming Audio Configuration Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CorsairLLAService</Property>
+    <Property Name="DisplayName">Corsair LLA Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CorsairMsiPluginService</Property>
+    <Property Name="DisplayName">Corsair MSI Plugin Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CorsairService</Property>
+    <Property Name="DisplayName">Corsair Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CredentialEnrollmentManagerUserSvc_c339890</Property>
+    <Property Name="DisplayName">CredentialEnrollmentManagerUserSvc_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CryptSvc</Property>
+    <Property Name="DisplayName">Cryptographic Services</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">CscService</Property>
+    <Property Name="DisplayName">Offline Files</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DcomLaunch</Property>
+    <Property Name="DisplayName">DCOM Server Process Launcher</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">defragsvc</Property>
+    <Property Name="DisplayName">Optimize drives</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DeviceAssociationBrokerSvc_c339890</Property>
+    <Property Name="DisplayName">DeviceAssociationBroker_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DeviceAssociationService</Property>
+    <Property Name="DisplayName">Device Association Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DeviceInstall</Property>
+    <Property Name="DisplayName">Device Install Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DevicePickerUserSvc_c339890</Property>
+    <Property Name="DisplayName">DevicePicker_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DevicesFlowUserSvc_c339890</Property>
+    <Property Name="DisplayName">DevicesFlow_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DevQueryBroker</Property>
+    <Property Name="DisplayName">DevQuery Background Discovery Broker</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Dhcp</Property>
+    <Property Name="DisplayName">DHCP Client</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">diagnosticshub.standardcollector.service</Property>
+    <Property Name="DisplayName">Microsoft (R) Diagnostics Hub Standard Collector Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">diagsvc</Property>
+    <Property Name="DisplayName">Diagnostic Execution Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DiagTrack</Property>
+    <Property Name="DisplayName">Connected User Experiences and Telemetry</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DialogBlockingService</Property>
+    <Property Name="DisplayName">DialogBlockingService</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DispBrokerDesktopSvc</Property>
+    <Property Name="DisplayName">Display Policy Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DisplayEnhancementService</Property>
+    <Property Name="DisplayName">Display Enhancement Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DmEnrollmentSvc</Property>
+    <Property Name="DisplayName">Device Management Enrollment Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">dmwappushservice</Property>
+    <Property Name="DisplayName">Device Management Wireless Application Protocol (WAP) Push message Routing Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Dnscache</Property>
+    <Property Name="DisplayName">DNS Client</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DoSvc</Property>
+    <Property Name="DisplayName">Delivery Optimization</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">dot3svc</Property>
+    <Property Name="DisplayName">Wired AutoConfig</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DPS</Property>
+    <Property Name="DisplayName">Diagnostic Policy Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DsmSvc</Property>
+    <Property Name="DisplayName">Device Setup Manager</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DsSvc</Property>
+    <Property Name="DisplayName">Data Sharing Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">DusmSvc</Property>
+    <Property Name="DisplayName">Data Usage</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Eaphost</Property>
+    <Property Name="DisplayName">Extensible Authentication Protocol</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">edgeupdate</Property>
+    <Property Name="DisplayName">Microsoft Edge Update Service (edgeupdate)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">edgeupdatem</Property>
+    <Property Name="DisplayName">Microsoft Edge Update Service (edgeupdatem)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">EFS</Property>
+    <Property Name="DisplayName">Encrypting File System (EFS)</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">embeddedmode</Property>
+    <Property Name="DisplayName">Embedded Mode</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">EntAppSvc</Property>
+    <Property Name="DisplayName">Enterprise App Management Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">EventLog</Property>
+    <Property Name="DisplayName">Windows Event Log</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">EventSystem</Property>
+    <Property Name="DisplayName">COM+ Event System</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Fax</Property>
+    <Property Name="DisplayName">Fax</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">fdPHost</Property>
+    <Property Name="DisplayName">Function Discovery Provider Host</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">FDResPub</Property>
+    <Property Name="DisplayName">Function Discovery Resource Publication</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">fhsvc</Property>
+    <Property Name="DisplayName">File History Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">FontCache</Property>
+    <Property Name="DisplayName">Windows Font Cache Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">FontCache3.0.0.0</Property>
+    <Property Name="DisplayName">Windows Presentation Foundation Font Cache 3.0.0.0</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">FrameServer</Property>
+    <Property Name="DisplayName">Windows Camera Frame Server</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">FvSvc</Property>
+    <Property Name="DisplayName">NVIDIA FrameView SDK service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">GamingServices</Property>
+    <Property Name="DisplayName">Gaming Services</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">GamingServicesNet</Property>
+    <Property Name="DisplayName">Gaming Services</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">GoogleChromeElevationService</Property>
+    <Property Name="DisplayName">Google Chrome Elevation Service (GoogleChromeElevationService)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">gpsvc</Property>
+    <Property Name="DisplayName">Group Policy Client</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">GraphicsPerfSvc</Property>
+    <Property Name="DisplayName">GraphicsPerfSvc</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">gupdate</Property>
+    <Property Name="DisplayName">Google Update Service (gupdate)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">gupdatem</Property>
+    <Property Name="DisplayName">Google Update Service (gupdatem)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">hidserv</Property>
+    <Property Name="DisplayName">Human Interface Device Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">HvHost</Property>
+    <Property Name="DisplayName">HV Host Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ibtsiva</Property>
+    <Property Name="DisplayName">Intel Bluetooth Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">icssvc</Property>
+    <Property Name="DisplayName">Windows Mobile Hotspot Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">IKEEXT</Property>
+    <Property Name="DisplayName">IKE and AuthIP IPsec Keying Modules</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">InstallService</Property>
+    <Property Name="DisplayName">Microsoft Store Install Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Intel(R) PROSet Monitoring Service</Property>
+    <Property Name="DisplayName">Intel(R) PROSet Monitoring Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">iphlpsvc</Property>
+    <Property Name="DisplayName">IP Helper</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">IpxlatCfgSvc</Property>
+    <Property Name="DisplayName">IP Translation Configuration Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">KeyIso</Property>
+    <Property Name="DisplayName">CNG Key Isolation</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">KtmRm</Property>
+    <Property Name="DisplayName">KtmRm for Distributed Transaction Coordinator</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">LanmanServer</Property>
+    <Property Name="DisplayName">Server</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">LanmanWorkstation</Property>
+    <Property Name="DisplayName">Workstation</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">lfsvc</Property>
+    <Property Name="DisplayName">Geolocation Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">LicenseManager</Property>
+    <Property Name="DisplayName">Windows License Manager Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">lltdsvc</Property>
+    <Property Name="DisplayName">Link-Layer Topology Discovery Mapper</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">lmhosts</Property>
+    <Property Name="DisplayName">TCP/IP NetBIOS Helper</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">LSM</Property>
+    <Property Name="DisplayName">Local Session Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">LxpSvc</Property>
+    <Property Name="DisplayName">Language Experience Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MapsBroker</Property>
+    <Property Name="DisplayName">Downloaded Maps Manager</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MEmuSVC</Property>
+    <Property Name="DisplayName">MEmuSVC</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MessagingService_c339890</Property>
+    <Property Name="DisplayName">MessagingService_c339890</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MicrosoftEdgeElevationService</Property>
+    <Property Name="DisplayName">Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MixedRealityOpenXRSvc</Property>
+    <Property Name="DisplayName">Windows Mixed Reality OpenXR Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MozillaMaintenance</Property>
+    <Property Name="DisplayName">Mozilla Maintenance Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">mpssvc</Property>
+    <Property Name="DisplayName">Windows Defender Firewall</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MSDTC</Property>
+    <Property Name="DisplayName">Distributed Transaction Coordinator</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MSiSCSI</Property>
+    <Property Name="DisplayName">Microsoft iSCSI Initiator Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">msiserver</Property>
+    <Property Name="DisplayName">Windows Installer</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">MsKeyboardFilter</Property>
+    <Property Name="DisplayName">Microsoft Keyboard Filter</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NaturalAuthentication</Property>
+    <Property Name="DisplayName">Natural Authentication</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NcaSvc</Property>
+    <Property Name="DisplayName">Network Connectivity Assistant</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NcbService</Property>
+    <Property Name="DisplayName">Network Connection Broker</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NcdAutoSetup</Property>
+    <Property Name="DisplayName">Network Connected Devices Auto-Setup</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Netlogon</Property>
+    <Property Name="DisplayName">Netlogon</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Netman</Property>
+    <Property Name="DisplayName">Network Connections</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">netprofm</Property>
+    <Property Name="DisplayName">Network List Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NetSetupSvc</Property>
+    <Property Name="DisplayName">Network Setup Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NetTcpPortSharing</Property>
+    <Property Name="DisplayName">Net.Tcp Port Sharing Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NgcCtnrSvc</Property>
+    <Property Name="DisplayName">Microsoft Passport Container</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NgcSvc</Property>
+    <Property Name="DisplayName">Microsoft Passport</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NlaSvc</Property>
+    <Property Name="DisplayName">Network Location Awareness</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">nsi</Property>
+    <Property Name="DisplayName">Network Store Interface Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NvBroadcast.ContainerLocalSystem</Property>
+    <Property Name="DisplayName">NVIDIA Broadcast LocalSystem Container</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NvContainerLocalSystem</Property>
+    <Property Name="DisplayName">NVIDIA LocalSystem Container</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">NVDisplay.ContainerLocalSystem</Property>
+    <Property Name="DisplayName">NVIDIA Display Container LS</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">OneSyncSvc_c339890</Property>
+    <Property Name="DisplayName">Sync Host_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">p2pimsvc</Property>
+    <Property Name="DisplayName">Peer Networking Identity Manager</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">p2psvc</Property>
+    <Property Name="DisplayName">Peer Networking Grouping</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PcaSvc</Property>
+    <Property Name="DisplayName">Program Compatibility Assistant Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PeerDistSvc</Property>
+    <Property Name="DisplayName">BranchCache</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">perceptionsimulation</Property>
+    <Property Name="DisplayName">Windows Perception Simulation Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PerfHost</Property>
+    <Property Name="DisplayName">Performance Counter DLL Host</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PhoneSvc</Property>
+    <Property Name="DisplayName">Phone Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PimIndexMaintenanceSvc_c339890</Property>
+    <Property Name="DisplayName">Contact Data_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">pla</Property>
+    <Property Name="DisplayName">Performance Logs &amp; Alerts</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PlugPlay</Property>
+    <Property Name="DisplayName">Plug and Play</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PNRPAutoReg</Property>
+    <Property Name="DisplayName">PNRP Machine Name Publication Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PNRPsvc</Property>
+    <Property Name="DisplayName">Peer Name Resolution Protocol</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PolicyAgent</Property>
+    <Property Name="DisplayName">IPsec Policy Agent</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Power</Property>
+    <Property Name="DisplayName">Power</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PrintNotify</Property>
+    <Property Name="DisplayName">Printer Extensions and Notifications</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PrintWorkflowUserSvc_c339890</Property>
+    <Property Name="DisplayName">PrintWorkflow_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ProfSvc</Property>
+    <Property Name="DisplayName">User Profile Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">PushToInstall</Property>
+    <Property Name="DisplayName">Windows PushToInstall Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">QWAVE</Property>
+    <Property Name="DisplayName">Quality Windows Audio Video Experience</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RasAuto</Property>
+    <Property Name="DisplayName">Remote Access Auto Connection Manager</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RasMan</Property>
+    <Property Name="DisplayName">Remote Access Connection Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RemoteAccess</Property>
+    <Property Name="DisplayName">Routing and Remote Access</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RemoteRegistry</Property>
+    <Property Name="DisplayName">Remote Registry</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RetailDemo</Property>
+    <Property Name="DisplayName">Retail Demo Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RmSvc</Property>
+    <Property Name="DisplayName">Radio Management Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RpcEptMapper</Property>
+    <Property Name="DisplayName">RPC Endpoint Mapper</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RpcLocator</Property>
+    <Property Name="DisplayName">Remote Procedure Call (RPC) Locator</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RpcSs</Property>
+    <Property Name="DisplayName">Remote Procedure Call (RPC)</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">RtkAudioUniversalService</Property>
+    <Property Name="DisplayName">Realtek Audio Universal Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SamSs</Property>
+    <Property Name="DisplayName">Security Accounts Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SCardSvr</Property>
+    <Property Name="DisplayName">Smart Card</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ScDeviceEnum</Property>
+    <Property Name="DisplayName">Smart Card Device Enumeration Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Schedule</Property>
+    <Property Name="DisplayName">Task Scheduler</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SCPolicySvc</Property>
+    <Property Name="DisplayName">Smart Card Removal Policy</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SDRSVC</Property>
+    <Property Name="DisplayName">Windows Backup</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">seclogon</Property>
+    <Property Name="DisplayName">Secondary Logon</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SecurityHealthService</Property>
+    <Property Name="DisplayName">Windows Security Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SEMgrSvc</Property>
+    <Property Name="DisplayName">Payments and NFC/SE Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SENS</Property>
+    <Property Name="DisplayName">System Event Notification Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Sense</Property>
+    <Property Name="DisplayName">Windows Defender Advanced Threat Protection Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SensorDataService</Property>
+    <Property Name="DisplayName">Sensor Data Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SensorService</Property>
+    <Property Name="DisplayName">Sensor Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SensrSvc</Property>
+    <Property Name="DisplayName">Sensor Monitoring Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SessionEnv</Property>
+    <Property Name="DisplayName">Remote Desktop Configuration</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SgrmBroker</Property>
+    <Property Name="DisplayName">System Guard Runtime Monitor Broker</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SharedAccess</Property>
+    <Property Name="DisplayName">Internet Connection Sharing (ICS)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SharedRealitySvc</Property>
+    <Property Name="DisplayName">Spatial Data Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ShellHWDetection</Property>
+    <Property Name="DisplayName">Shell Hardware Detection</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">shpamsvc</Property>
+    <Property Name="DisplayName">Shared PC Account Manager</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">smphost</Property>
+    <Property Name="DisplayName">Microsoft Storage Spaces SMP</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SmsRouter</Property>
+    <Property Name="DisplayName">Microsoft Windows SMS Router Service.</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SNMPTRAP</Property>
+    <Property Name="DisplayName">SNMP Trap</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">spectrum</Property>
+    <Property Name="DisplayName">Windows Perception Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Spooler</Property>
+    <Property Name="DisplayName">Print Spooler</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">sppsvc</Property>
+    <Property Name="DisplayName">Software Protection</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ss_conn_launcher_service</Property>
+    <Property Name="DisplayName">SAMSUNG Mobile USB Connectivity Launcher</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SSDPSRV</Property>
+    <Property Name="DisplayName">SSDP Discovery</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">ssh-agent</Property>
+    <Property Name="DisplayName">OpenSSH Authentication Agent</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SstpSvc</Property>
+    <Property Name="DisplayName">Secure Socket Tunneling Protocol Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">StateRepository</Property>
+    <Property Name="DisplayName">State Repository Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Steam Client Service</Property>
+    <Property Name="DisplayName">Steam Client Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">stisvc</Property>
+    <Property Name="DisplayName">Windows Image Acquisition (WIA)</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">StorSvc</Property>
+    <Property Name="DisplayName">Storage Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">svsvc</Property>
+    <Property Name="DisplayName">Spot Verifier</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">swprv</Property>
+    <Property Name="DisplayName">Microsoft Software Shadow Copy Provider</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SysMain</Property>
+    <Property Name="DisplayName">SysMain</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">SystemEventsBroker</Property>
+    <Property Name="DisplayName">System Events Broker</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TabletInputService</Property>
+    <Property Name="DisplayName">Touch Keyboard and Handwriting Panel Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TapiSrv</Property>
+    <Property Name="DisplayName">Telephony</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TermService</Property>
+    <Property Name="DisplayName">Remote Desktop Services</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Themes</Property>
+    <Property Name="DisplayName">Themes</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TieringEngineService</Property>
+    <Property Name="DisplayName">Storage Tiers Management</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TimeBrokerSvc</Property>
+    <Property Name="DisplayName">Time Broker</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TokenBroker</Property>
+    <Property Name="DisplayName">Web Account Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TrkWks</Property>
+    <Property Name="DisplayName">Distributed Link Tracking Client</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TroubleshootingSvc</Property>
+    <Property Name="DisplayName">Recommended Troubleshooting Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">TrustedInstaller</Property>
+    <Property Name="DisplayName">Windows Modules Installer</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">tzautoupdate</Property>
+    <Property Name="DisplayName">Auto Time Zone Updater</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UdkUserSvc_c339890</Property>
+    <Property Name="DisplayName">Udk User Service_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UevAgentService</Property>
+    <Property Name="DisplayName">User Experience Virtualization Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">uhssvc</Property>
+    <Property Name="DisplayName">Microsoft Update Health Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UmRdpService</Property>
+    <Property Name="DisplayName">Remote Desktop Services UserMode Port Redirector</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UnistoreSvc_c339890</Property>
+    <Property Name="DisplayName">User Data Storage_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">upnphost</Property>
+    <Property Name="DisplayName">UPnP Device Host</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UserDataSvc_c339890</Property>
+    <Property Name="DisplayName">User Data Access_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UserManager</Property>
+    <Property Name="DisplayName">User Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">UsoSvc</Property>
+    <Property Name="DisplayName">Update Orchestrator Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">VacSvc</Property>
+    <Property Name="DisplayName">Volumetric Audio Compositor Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">VaultSvc</Property>
+    <Property Name="DisplayName">Credential Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vds</Property>
+    <Property Name="DisplayName">Virtual Disk</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicguestinterface</Property>
+    <Property Name="DisplayName">Hyper-V Guest Service Interface</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicheartbeat</Property>
+    <Property Name="DisplayName">Hyper-V Heartbeat Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmickvpexchange</Property>
+    <Property Name="DisplayName">Hyper-V Data Exchange Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicrdv</Property>
+    <Property Name="DisplayName">Hyper-V Remote Desktop Virtualization Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicshutdown</Property>
+    <Property Name="DisplayName">Hyper-V Guest Shutdown Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmictimesync</Property>
+    <Property Name="DisplayName">Hyper-V Time Synchronization Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicvmsession</Property>
+    <Property Name="DisplayName">Hyper-V PowerShell Direct Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">vmicvss</Property>
+    <Property Name="DisplayName">Hyper-V Volume Shadow Copy Requestor</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">VSS</Property>
+    <Property Name="DisplayName">Volume Shadow Copy</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">W32Time</Property>
+    <Property Name="DisplayName">Windows Time</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WaaSMedicSvc</Property>
+    <Property Name="DisplayName">Windows Update Medic Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WalletService</Property>
+    <Property Name="DisplayName">WalletService</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WarpJITSvc</Property>
+    <Property Name="DisplayName">WarpJITSvc</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wbengine</Property>
+    <Property Name="DisplayName">Block Level Backup Engine Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WbioSrvc</Property>
+    <Property Name="DisplayName">Windows Biometric Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Wcmsvc</Property>
+    <Property Name="DisplayName">Windows Connection Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wcncsvc</Property>
+    <Property Name="DisplayName">Windows Connect Now - Config Registrar</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WdiServiceHost</Property>
+    <Property Name="DisplayName">Diagnostic Service Host</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WdiSystemHost</Property>
+    <Property Name="DisplayName">Diagnostic System Host</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WdNisSvc</Property>
+    <Property Name="DisplayName">Microsoft Defender Antivirus Network Inspection Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WebClient</Property>
+    <Property Name="DisplayName">WebClient</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Wecsvc</Property>
+    <Property Name="DisplayName">Windows Event Collector</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WEPHOSTSVC</Property>
+    <Property Name="DisplayName">Windows Encryption Provider Host Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wercplsupport</Property>
+    <Property Name="DisplayName">Problem Reports Control Panel Support</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WerSvc</Property>
+    <Property Name="DisplayName">Windows Error Reporting Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WFDSConMgrSvc</Property>
+    <Property Name="DisplayName">Wi-Fi Direct Services Connection Manager Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WiaRpc</Property>
+    <Property Name="DisplayName">Still Image Acquisition Events</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WinDefend</Property>
+    <Property Name="DisplayName">Microsoft Defender Antivirus Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WinHttpAutoProxySvc</Property>
+    <Property Name="DisplayName">WinHTTP Web Proxy Auto-Discovery Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">Winmgmt</Property>
+    <Property Name="DisplayName">Windows Management Instrumentation</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WinRM</Property>
+    <Property Name="DisplayName">Windows Remote Management (WS-Management)</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wisvc</Property>
+    <Property Name="DisplayName">Windows Insider Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WlanSvc</Property>
+    <Property Name="DisplayName">WLAN AutoConfig</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wlidsvc</Property>
+    <Property Name="DisplayName">Microsoft Account Sign-in Assistant</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wlpasvc</Property>
+    <Property Name="DisplayName">Local Profile Assistant Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WManSvc</Property>
+    <Property Name="DisplayName">Windows Management Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wmiApSrv</Property>
+    <Property Name="DisplayName">WMI Performance Adapter</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WMPNetworkSvc</Property>
+    <Property Name="DisplayName">Windows Media Player Network Sharing Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">workfolderssvc</Property>
+    <Property Name="DisplayName">Work Folders</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WpcMonSvc</Property>
+    <Property Name="DisplayName">Parental Controls</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WPDBusEnum</Property>
+    <Property Name="DisplayName">Portable Device Enumerator Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WpnService</Property>
+    <Property Name="DisplayName">Windows Push Notifications System Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WpnUserService_c339890</Property>
+    <Property Name="DisplayName">Windows Push Notifications User Service_c339890</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wscsvc</Property>
+    <Property Name="DisplayName">Security Center</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WSearch</Property>
+    <Property Name="DisplayName">Windows Search</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WTabletServicePro</Property>
+    <Property Name="DisplayName">Wacom Professional Service</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">wuauserv</Property>
+    <Property Name="DisplayName">Windows Update</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">WwanSvc</Property>
+    <Property Name="DisplayName">WWAN AutoConfig</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">XblAuthManager</Property>
+    <Property Name="DisplayName">Xbox Live Auth Manager</Property>
+    <Property Name="Status">Running</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">XblGameSave</Property>
+    <Property Name="DisplayName">Xbox Live Game Save</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">XboxGipSvc</Property>
+    <Property Name="DisplayName">Xbox Accessory Management Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+  <Object>
+    <Property Name="Name">XboxNetApiSvc</Property>
+    <Property Name="DisplayName">Xbox Live Networking Service</Property>
+    <Property Name="Status">Stopped</Property>
+  </Object>
+</Objects>
