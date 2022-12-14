@@ -1,21 +1,58 @@
 using namespace System.Management.Automation.Host
+function Show-Menu {
+    [CmdletBinding(DefaultParameterSetName = 'Default')]
+    param (
+        [Parameter(Mandatory = $true, Position = 1, ParameterSetName = "Default")]
+        [Parameter(Mandatory = $false, Position = 1, ParameterSetName = "Path")]
+        [string]$Title,
+        [Parameter(Mandatory = $true, Position = 2, ParameterSetName = "Default")][string]$Description,
+        [Parameter(Mandatory = $true, Position = 3, ParameterSetName = "Default")][hashtable]$Options,
+        [Parameter(Mandatory = $true, Position = 1, ParameterSetName = "Object")][hashtable]$InputObject,
+        [Parameter(Mandatory = $true, Position = 1, ParameterSetName = "Path")][string]$Path
+    )
+    [ChoiceDescription[]]$Choices = @();
+    switch ($PSCmdlet.ParameterSetName) {
+        "Default" {
+            foreach ($Option in $Options.GetEnumerator()) {
+                $Choices += [ChoiceDescription]::new($Option.Key, $Option.Value)
+            }
+            return $host.ui.PromptForChoice($Title, $Description, $Choices, 0)
+         }
+        "Object" { 
+            foreach ($Option in $InputObject.Options.GetEnumerator()) {
+                $Choices += [ChoiceDescription]::new($Option.Label, $Option.Help)
+            }
+            return $host.ui.PromptForChoice($InputObject.Title, $InputObject.Description, $Choices, 0)
+         }
+        "Path" { 
+            $Menu = Get-Content $Path | ConvertFrom-Json
+            foreach ($Option in $Menu.Options) {
+                $Choices += [ChoiceDescription]::new($Option.Label, $Option.Help)
+            }
+            return $host.ui.PromptForChoice($Menu.Title, $Menu.Description, $Choices, 0)
+         }
+        Default {}
+    }  
+}
 
-# $red = New-Object System.Management.Automation.Host.ChoiceDescription '&Red', 'Favorite color: Red'
-# $blue = New-Object System.Management.Automation.Host.ChoiceDescription '&Blue', 'Favorite color: Blue'
-# $yellow = New-Object System.Management.Automation.Host.ChoiceDescription '&Yellow', 'Favorite color: Yellow'
+$InputObject = @{
+    Title = "Demo"
+    Description = "Demo Desc"
+    Options = @(
+        @{Label = "&Red"; Help = "Red"}
+        @{Label = "&Blue"; Help = "Blue"}
+        @{Label = "&Yellow"; Help = "Yellow"}
+    )
+}
 
-$red = [ChoiceDescription]::new('&Red', 'Favorite color: Red')
-$blue = [ChoiceDescription]::new('&Blue', 'Favorite color: Blue')
-$yellow = [ChoiceDescription]::new('&Yellow', 'Favorite color: Yellow')
-$options = [ChoiceDescription[]]($red, $blue, $yellow)
+$Result = Show-Menu -Title "Demo" -Description "Demo Desc" -Options @{"&Red" = "Red"; "&Blue" = "Blue"; "&Yellow" = "Yellow"}
+$Result = Show-Menu -Path .\Menu\Menu.json
+$Result = Show-Menu -InputObject $InputObject
 
-$title = 'Favorite color'
-$message = 'What is your favorite color?'
-$result = $host.ui.PromptForChoice($title, $message, $options, 0)
 
 switch ($result) {
-    0 {  }
-    1 {  }
-    2 {  }
-    Default {}
+    0 { Write-Host 'You chose red.' }
+    1 { Write-Host 'You chose blue.' }
+    2 { Write-Host 'You chose yellow.' }
+    Default { Write-Host 'You did not choose a color.' }
 }
