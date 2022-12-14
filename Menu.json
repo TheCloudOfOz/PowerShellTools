@@ -1,0 +1,22 @@
+{
+    "Title": "Favorite color",
+    "Description": "What is your favorite color?",
+    "Options": [
+        {
+            "Label": "&Red",
+            "Help": "Favorite color: Red"
+        },
+        {
+            "Label": "&Green",
+            "Help": "Favorite color: Green"
+        },
+        {
+            "Label": "&Blue",
+            "Help": "Favorite color: Blue"
+        },
+        {
+            "Label": "&Yellow",
+            "Help": "Favorite color: Yellow"
+        }
+    ]
+}
